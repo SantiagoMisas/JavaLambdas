@@ -1,0 +1,11 @@
+
+b
+java:S1192"LDefine a constant instead of duplicating this literal "Pato Guzman" 3 times.(ğı­Û
+7
+java:S3864"!Remove this use of "Stream.peek".(×—åÇ
+@	java:S106"+Replace this use of System.out by a logger.(×—åÇ
+Q	java:S125"<This block of commented-out lines of code should be removed.(»©Æ«
+@	java:S106"+Replace this use of System.out by a logger.(•åĞÛ
+E	java:S106"+Replace this use of System.out by a logger.(Ñš·®øÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¼ËÇ¦
+@	java:S106"+Replace this use of System.out by a logger.(¹õÈÇ

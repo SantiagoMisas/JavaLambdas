@@ -1,0 +1,8 @@
+
+p
+java:S1192"NDefine a constant instead of duplicating this literal "Paco Gonzalez" 4 times.(ŒÉŒëÿÿÿÿÿ8å‘™å¤1
+G	java:S106"+Replace this use of System.out by a logger.(Çü€ç8õ‘™å¤1
+m
+java:S1128"KRemove this unused import 'org.aguzman.api.stream.ejemplos.models.Usuario'.(Íãùÿÿÿÿ8÷‘™å¤1
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8÷‘™å¤1
